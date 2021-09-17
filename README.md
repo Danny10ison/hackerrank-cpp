@@ -1,2 +1,4 @@
-# hackerrank-cpp
-Hackerrank Cpp
+# Hackerrank Cpp
+
+All Hackerrank Tasks and Solutions
+
